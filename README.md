@@ -1,1 +1,1 @@
-Shopping-Web url: https://shoopingweb.netlify.app/
+Shopping - Web url: https://shoopingweb.netlify.app/
