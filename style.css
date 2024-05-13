@@ -1134,6 +1134,9 @@ iframe {
     .top-txt .head a {
         font-size: 10px;
     }
+    .logo h1{
+        display: none;
+    }
     .home_txt h2,
     .home_txt .home_label p {
         display: none;
@@ -1262,8 +1265,7 @@ iframe {
     .form .form-details input[type="email"],
     .form .form-details textarea {
         width: 100%;
-        margin-left: 0;
-        margin-right: 0;
+        margin: 0;
     }
     .form .form-details input[type="text"] {
         margin-bottom: 0px;
